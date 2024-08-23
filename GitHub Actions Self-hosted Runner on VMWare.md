@@ -25,5 +25,13 @@ $ tar xzf ./actions-runner-linux-x64-2.319.1.tar.gz
 ```
 5. ターミナルで操作 設定
 ```
+# 以下をじｋ
 
+# Create the runner and start the configuration experience  
+$ ./config.sh --url https://github.com/mamiya-its --token APHWAFVBAD6A7PR2BANOJKLGY7S5Y
+
+Copied!
+
+# Last step, run it!  
+$ ./run.sh
 ```
