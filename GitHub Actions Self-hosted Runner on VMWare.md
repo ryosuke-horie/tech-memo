@@ -25,7 +25,8 @@ $ tar xzf ./actions-runner-linux-x64-2.319.1.tar.gz
 ```
 5. ターミナルで操作 設定
 ```
-# 以下をじｋ
+# 下のコマンドを実行するために依存関係のダウンロードのため以下が必要だった。
+sudo ./bin/installdependencies.sh
 
 # Create the runner and start the configuration experience  
 $ ./config.sh --url https://github.com/mamiya-its --token APHWAFVBAD6A7PR2BANOJKLGY7S5Y
