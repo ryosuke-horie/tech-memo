@@ -31,8 +31,6 @@ sudo ./bin/installdependencies.sh
 # Create the runner and start the configuration experience  
 $ ./config.sh --url https://github.com/mamiya-its --token APHWAFVBAD6A7PR2BANOJKLGY7S5Y
 
-Copied!
-
 # Last step, run it!  
 $ ./run.sh
 ```
