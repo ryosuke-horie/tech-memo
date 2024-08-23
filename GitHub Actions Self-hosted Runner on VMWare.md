@@ -9,6 +9,7 @@
 3. 34環境にSSH接続する（VSCode経由）
 4. ターミナルで操作
 ```
+# GitHub OrganizationのSettings＞Acitons＞RunnersにLinux用のセルフホストランナーの設定方法の記載がある
 # https://github.com/organizations/mamiya-its/settings/actions/runners/new?arch=x64&os=linux
 
 ```
