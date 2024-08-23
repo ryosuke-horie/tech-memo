@@ -23,3 +23,7 @@ $ echo "3f6efb7488a183e291fc2c62876e14c9ee732864173734facc85a1bfb1744464 action
 # Extract the installer  
 $ tar xzf ./actions-runner-linux-x64-2.319.1.tar.gz
 ```
+5. ターミナルで操作 設定
+```
+
+```
