@@ -34,3 +34,4 @@ $ ./config.sh --url https://github.com/mamiya-its --token APHWAFVBAD6A7PR2BANOJ
 # Last step, run it!  
 $ ./run.sh
 ```
+6. GitHubのRunnersとして登録されていることを確認
