@@ -35,3 +35,5 @@ $ ./config.sh --url https://github.com/mamiya-its --token APHWAFVBAD6A7PR2BANOJ
 $ ./run.sh
 ```
 6. GitHubのRunnersとして登録されていることを確認
+		/images/gha_selfhost-trail.jpg
+
