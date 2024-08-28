@@ -59,3 +59,5 @@ minikube dashboard
 ```shell
 kubectl create deployment hello-minikube --image=kicbase/echo-server:1.0
 ```
+
+## デプロイから停止・削除まで体験
