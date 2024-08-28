@@ -47,6 +47,7 @@ kube-system   kube-controller-manager-minikube   1/1     Running   0            
 kube-system   kube-proxy-kdzvh                   1/1     Running   0             33s
 kube-system   kube-scheduler-minikube            1/1     Running   0             47s
 kube-system   storage-provisioner                1/1     Running   1 (11s ago)   46s
+
 # シェル設定でminikubeを省略する設定
 alias kubectl="minikube kubectl --"
 ```
