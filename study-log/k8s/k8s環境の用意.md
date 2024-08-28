@@ -35,6 +35,18 @@ Docker Engine installation instructions: https://docs.docker.com/engine/install/
 ```
 
 ### kubectlのダウンロード
-```
+```shell
 minikube kubectl -- get po -A
+    > kubectl.sha256:  64 B / 64 B [-------------------------] 100.00% ? p/s 0s
+    > kubectl:  49.07 MiB / 49.07 MiB [------------] 100.00% 30.61 MiB p/s 1.8s
+NAMESPACE     NAME                               READY   STATUS    RESTARTS      AGE
+kube-system   coredns-7db6d8ff4d-xxqhs           1/1     Running   0             33s
+kube-system   etcd-minikube                      1/1     Running   0             47s
+kube-system   kube-apiserver-minikube            1/1     Running   0             47s
+kube-system   kube-controller-manager-minikube   1/1     Running   0             48s
+kube-system   kube-proxy-kdzvh                   1/1     Running   0             33s
+kube-system   kube-scheduler-minikube            1/1     Running   0             47s
+kube-system   storage-provisioner                1/1     Running   1 (11s ago)   46s
+# シェル設定でminikubeを省略する設定
+alias kubectl="minikube kubectl --"
 ```
