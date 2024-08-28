@@ -50,4 +50,6 @@ kube-system   storage-provisioner                1/1     Running   1 (11s ago)  
 
 # シェル設定でminikubeを省略する設定
 alias kubectl="minikube kubectl --"
+
+# localhostでダッシュボードをかくｎ
 ```
