@@ -51,5 +51,11 @@ kube-system   storage-provisioner                1/1     Running   1 (11s ago)  
 # シェル設定でminikubeを省略する設定
 alias kubectl="minikube kubectl --"
 
-# localhostでダッシュボードをかくｎ
+# localhostでダッシュボードを確認可能
+minikube dashboard
+```
+
+## サンプルのデプロイメント
+```shell
+kubectl create deployment hello-minikube --image=kicbase/echo-server:1.0
 ```
