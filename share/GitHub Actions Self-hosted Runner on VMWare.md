@@ -29,7 +29,7 @@ $ tar xzf ./actions-runner-linux-x64-2.319.1.tar.gz
 sudo ./bin/installdependencies.sh
 
 # Create the runner and start the configuration experience  
-$ ./config.sh --url https://github.com/mamiya-its --token APHWAFVBAD6A7PR2BANOJKLGY7S5Y
+$ ./config.sh --url https://github.com/mamiya-its --token xxxxxxxxx
 
 # Last step, run it!  
 $ ./run.sh
