@@ -24,4 +24,4 @@ https://philips-labs.github.io/terraform-aws-github-runner/getting-started/
 		1. lambda用のZipのパスとGithub Appsの部分
 	3. terraform applyを実行
 3. GitHub AppsでWebhook設定を有効化
-	1. Permission & EventでWorkflow Jo
+	1. Permission & EventでWorkflow JobをSubscribe
