@@ -6,4 +6,6 @@
 ## 1. OSSリポジトリのClone
 https://github.com/philips-labs/terraform-aws-github-runner
 
-- forkだとプライベートリポジトリに
+- forkだとプライベートリポジトリに変更できなかったためClone
+
+
