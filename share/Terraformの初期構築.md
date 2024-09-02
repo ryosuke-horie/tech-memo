@@ -17,3 +17,6 @@ https://github.com/philips-labs/terraform-aws-github-runner
 https://philips-labs.github.io/terraform-aws-github-runner/getting-started/
 1. 組織用のGithub Appを作成
 2. terraform モジュールのセットアップ
+	1. https://github.com/philips-labs/terraform-aws-github-runner/releases
+			上記からLambdaのZipファイルをダウンロード
+			modules/
