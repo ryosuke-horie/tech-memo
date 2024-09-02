@@ -19,4 +19,5 @@ https://philips-labs.github.io/terraform-aws-github-runner/getting-started/
 2. terraform モジュールのセットアップ
 	1. https://github.com/philips-labs/terraform-aws-github-runner/releases
 			上記からLambdaのZipファイルをダウンロード
-			modules/
+			`modules/download-lambda`に保存する
+	2. 
