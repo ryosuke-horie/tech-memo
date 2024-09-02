@@ -22,3 +22,6 @@ https://philips-labs.github.io/terraform-aws-github-runner/getting-started/
 			`modules/download-lambda`に保存する
 	2. 変数を調整する
 		1. lambda用のZipのパスとGithub Appsの部分
+	3. terraform applyを実行
+3. GitHub AppsでWebhook設定を有効化
+	1. Permission & Eventの設定を変更
