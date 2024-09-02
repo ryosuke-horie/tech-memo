@@ -3,6 +3,7 @@
 - Github selfhost-runnerを利用するためにOSSのterrafrom-aws-github-runnerを利用する
 - Terraformの実行環境をローカルに立ち上げる
 
-## 1. OSSリポジトリのFork
+## 1. OSSリポジトリのClone
 https://github.com/philips-labs/terraform-aws-github-runner
 
+- forkだとプライベートリポジトリに
