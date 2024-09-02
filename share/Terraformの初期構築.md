@@ -8,4 +8,6 @@ https://github.com/philips-labs/terraform-aws-github-runner
 
 - forkだとプライベートリポジトリに変更できなかったためClone
 
-
+## 2. Terraformのインストール
+- WSL2の中にインストールする
+- [公式ダウンロードページ]
