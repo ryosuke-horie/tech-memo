@@ -1,12 +1,12 @@
 github selfhosted runnerの構築に苦しんでいたが、少なくとも会社でメンバーをある程度納得させられるようなところまで持っていけたと感じた。  
-構築のパターンや方法を紹介している記事は多々ありましたが、github selfhosted runnerの選定に悩んでるような記事をなかなか見かけなかったので共有します。  
+構築のパターンや方法を紹介している記事は多々ありましたが、Github セルフホストランナーの選定に悩んでるような記事をなかなか見かけなかったので共有します。  
   
-■概要  
+## ■概要  
 terraform-aws-github-runnerというTerraformを利用したossの利用とカスタマイズによってGithub Self hosted runnerを構築した。  
   
-■背景  
-github actionsを導入し、使い始め1ヶ月程経過した。  
-gitlabからgithubに移行したプロジェクトの自動テストがかなり充実していてciの実行時間が膨大になり、コスト面からself hosted runnerを導入して検証していた。  
+## ■背景  
+Github actionsを導入し、使い始め1ヶ月程経過した。  
+GitlabからGithubに移行したプロジェクトの自動テストがかなり充実していてciの実行時間が膨大になり、コスト面からself hosted runnerを導入して検証していた。  
   
 最初は社内に置いてある、オンプレにVMwareで構築したlinux環境をセルフホストランナーにして運用を始めた。  
   
