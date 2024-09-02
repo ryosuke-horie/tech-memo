@@ -20,4 +20,5 @@ https://philips-labs.github.io/terraform-aws-github-runner/getting-started/
 	1. https://github.com/philips-labs/terraform-aws-github-runner/releases
 			上記からLambdaのZipファイルをダウンロード
 			`modules/download-lambda`に保存する
-	2. へ
+	2. 変数を調整する
+		1. lambda用のZipのパスとGithub Appsの部分
