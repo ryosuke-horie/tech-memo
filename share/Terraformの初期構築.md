@@ -12,3 +12,5 @@ https://github.com/philips-labs/terraform-aws-github-runner
 - WSL2の中にインストールする
 - [公式ダウンロードページ](https://developer.hashicorp.com/terraform/install?product_intent=terraform)
 	- LinuxのUbuntuのコマンドを実行
+
+3. 
