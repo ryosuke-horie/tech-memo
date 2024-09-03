@@ -63,7 +63,7 @@ Natgatewayを利用するとネットワークで処理したデータ量に対�
   
   
 ## ■最終的な構成図  
-  
+images/terraform-aws-github-runner-architecuture.jpg
   
 ## ■最後に  
 個人的にはTerraformやイベントベースのawsアーキテクチャ、提案、構築などを経験できた最高の期間でした。  
