@@ -4,7 +4,7 @@ terraform-aws-github-runnerを利用してGitHubセルフホストランナー�
 立ち上がりに時間がかかるのと、プロジェクトで必要な依存関係のインストールの時間を省き、CIのパフォーマンス改善とコスト削減を行う。
 
 ## やったこと
-- Ubuntuをベースにプロジェクトに必要な依存関係(Nodejsやphp, composer, java など)をインストール済みのカスタムAMIの作成
+- packerを利用してUbuntuをベースにプロジェクトに必要な依存関係(Nodejsやphp, composer, java など)をインストール済みのカスタムAMIの作成
 - 
 
 ## カスタムAMIの作成
