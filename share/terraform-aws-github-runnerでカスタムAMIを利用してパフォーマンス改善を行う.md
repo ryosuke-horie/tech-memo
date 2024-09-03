@@ -6,7 +6,7 @@ terraform-aws-github-runnerを利用してGitHubセルフホストランナー�
 ## やったこと
 - packerを利用してUbuntuをベースにプロジェクトに必要な依存関係(Nodejsやphp, composer, java など)をインストール済みのカスタムAMIの作成
 - TerraformでカスタムAMIを利用してRunnerを立ち上げるように修正
-- GitHub Actionsでセットアップしていた
+- GitHub Actionsで不要になったセットアップ用のコマンドを削除
 
 ## カスタムAMIの作成
 ### 事前準備：packerのインストール
