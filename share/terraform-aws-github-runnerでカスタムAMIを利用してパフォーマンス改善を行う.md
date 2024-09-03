@@ -14,3 +14,18 @@ echo "deb [signed-by=/usr/share/keyrings/hashicorp-archive-keyring.gpg] https://
 packer --version
 # >Packer v1.11.2
 ```
+### packerの構文でUbuntuでGitHub セルフホストランナーのセットアップ
+1. terraform-aws-github-runnerのubuntuのサンプルをベースにプロジェクトに合わせてプロジェクトに必要なphp, composer, nodejsのセットアップを追加する。
+2. packerをプロジェクト用に初期化
+```
+# packerの設定ファイルを置いたディレクトリでinitする
+packer init github_agent.ubuntu.pkr.hcl
+```
+3. バリデーション
+```
+packer validate github_agent.ubuntu.pkr.hcl 
+```
+4. イメージ作成
+```
+packer build github_agent.ubuntu.pkr.hcl
+```
