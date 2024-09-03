@@ -19,4 +19,7 @@ packer init github_agent.ubuntu.pkr.hcl
 ```
 packer validate github_agent.ubuntu.pkr.hcl 
 ```
-4. 
+4. イメージ作成
+```
+packer build github_agent.ubuntu.pkr.hcl
+```
