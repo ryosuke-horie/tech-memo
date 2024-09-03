@@ -5,4 +5,5 @@ echo "deb [signed-by=/usr/share/keyrings/hashicorp-archive-keyring.gpg] https://
 ```
 
 ## packerの構文でUbuntuでGitHub セルフホストランナーのセットアップ
-- terraform-aws-github-runnerで
+1. terraform-aws-github-runnerのubuntuのサンプルをベースにプロジェクトに合わせてphp, composer, nodejsのセットアップを追加する。
+2. 
