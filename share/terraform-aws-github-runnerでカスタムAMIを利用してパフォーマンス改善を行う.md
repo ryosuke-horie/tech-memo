@@ -46,3 +46,5 @@ packer build github_agent.ubuntu.pkr.hcl
 terraform apply
 ```
 
+## 結果
+変更前、セルフホストランナーの起動を含めて9分
