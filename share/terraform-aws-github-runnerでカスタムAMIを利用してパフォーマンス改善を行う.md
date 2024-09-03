@@ -31,4 +31,5 @@ packer build github_agent.ubuntu.pkr.hcl
 ```
 
 ### カスタムAMIを利用できるようにvariables.tfを修正
-- `ami_filter`の指定の際、nameで自作したamiの名前を指定
+- `ami_filter`のnameを指定するように追加し自作したamiの名前を指定
+- `runner_run_as`がデフォルトでは`ec2-user`になっている。Ubuntuの場合は`ubuntu`
