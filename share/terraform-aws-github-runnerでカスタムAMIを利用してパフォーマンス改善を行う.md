@@ -3,6 +3,9 @@
 terraform-aws-github-runnerを利用してGitHubセルフホストランナーを構築すると、RunnerはAmazon LinuxのEC2で作成される。
 立ち上がりに時間がかかるのと、プロジェクトで必要な依存関係のインストールの時間を省き、CIのパフォーマンス改善とコスト削減を行う。
 
+## やったこと
+- 
+
 ## カスタムAMIの作成
 ### 事前準備：packerのインストール
 WSL2 Ubuntuでダウンロード
@@ -27,7 +30,8 @@ packer validate github_agent.ubuntu.pkr.hcl
 ```
 4. イメージ作成
 ```
-# 
+# imageのビルドはEC2を立ち上げ、SSHで接続して実行する。
+# セキュリティグループとSubnetの指定に注意
 packer build github_agent.ubuntu.pkr.hcl
 ```
 
