@@ -17,5 +17,6 @@ packer init github_agent.ubuntu.pkr.hcl
 ```
 3. バリデーション
 ```
-
+packer validate github_agent.ubuntu.pkr.hcl 
 ```
+4. 
