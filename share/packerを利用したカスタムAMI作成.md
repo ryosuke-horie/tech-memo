@@ -12,5 +12,10 @@ packer --version
 1. terraform-aws-github-runnerのubuntuのサンプルをベースにプロジェクトに合わせてphp, composer, nodejsのセットアップを追加する。
 2. packerをプロジェクト用に初期化
 ```
+# packerの設定ファイルを置いたディレクトリでinitする
+packer init github_agent.ubuntu.pkr.hcl
+```
+3. バリデーション
+```
 
 ```
