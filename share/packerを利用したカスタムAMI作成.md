@@ -10,4 +10,7 @@ packer --version
 
 ## packerの構文でUbuntuでGitHub セルフホストランナーのセットアップ
 1. terraform-aws-github-runnerのubuntuのサンプルをベースにプロジェクトに合わせてphp, composer, nodejsのセットアップを追加する。
-2. 
+2. packerをプロジェクト用に初期化
+```
+
+```
