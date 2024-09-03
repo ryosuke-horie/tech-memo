@@ -30,4 +30,5 @@ packer validate github_agent.ubuntu.pkr.hcl
 packer build github_agent.ubuntu.pkr.hcl
 ```
 
-### カスタムAMIを利用できるように
+### カスタムAMIを利用できるようにvariables.tfを修正
+- `ami_filter`の指定の際、nameで自作したamiの名前を指定
