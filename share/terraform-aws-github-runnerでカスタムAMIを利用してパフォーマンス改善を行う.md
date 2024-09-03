@@ -41,3 +41,8 @@ packer build github_agent.ubuntu.pkr.hcl
 - `ami_filter`のnameを指定するように追加し自作したamiの名前を指定
 - `runner_run_as`がデフォルトでは`ec2-user`になっている。Ubuntuの場合は`ubuntu`に変更
 - `enable_userdata`をfalseに指定。
+上記を変更してAWSに適用。
+```
+terraform apply
+```
+
