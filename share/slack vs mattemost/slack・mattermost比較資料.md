@@ -34,3 +34,4 @@ https://github.com/mattermost/mattermost/releases/tag/v9.11.1
 - v11でMySql(MariaDB)が非推奨になることが明記されています
 	- MySQLからPostgreSQLへの移行が必要になります。
 - v8 ~ v10 2つ分程度のメジャーバージョンアップへの対応
+	- upgradeガイドは出ていますが今までの対応かあ
