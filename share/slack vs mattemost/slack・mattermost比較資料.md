@@ -10,4 +10,5 @@ https://slack.com/intl/ja-jp/pricing
 ### Slackを導入するメリット
 - 外部ツールとの連携のしやすさ
 	- Slackに「アプリ」として追加することで導入できる
-	- GitHubとの連携をスムーズに行える、GitHub App
+	- GitHubとの連携をスムーズに行える、GitHub Appなどが有名
+		- 
