@@ -52,3 +52,4 @@ https://github.com/mattermost/mattermost/releases/tag/v9.11.1
 この状況ではセキュリティの問題は日を追うごとに増えていきます。
 
 
+## Mattermostに関連するリソースのAWS構成図と評価
