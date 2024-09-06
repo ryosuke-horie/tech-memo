@@ -26,4 +26,4 @@ https://github.com/mattermost/mattermost/releases/tag/v9.11.1
 利用しているMattermotのバージョンは8.1.2であり、バージョンに乖離があります。
 2023年9月9日リリースのバージョンです。
 
-Mattermostはセキュリティ
+本来はアップデートに追従し、セキュリティ面のあｐ
