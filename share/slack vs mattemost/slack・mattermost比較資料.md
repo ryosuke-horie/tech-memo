@@ -45,3 +45,4 @@ https://github.com/mattermost/mattermost/releases/tag/v9.11.1
 
 ### EC2インスタンスの保守ができていない
 充分なメトリクスの取得やアラートの設定がされていません。
+9月3日にMattermostがうごかもEC2のメトリクスの監視アラートに対し適切な
