@@ -35,4 +35,6 @@ https://github.com/mattermost/mattermost/releases/tag/v9.11.1
 	- MySQLからPostgreSQLへの移行が必要になります。
 - v8 ~ v10 2つ分程度のメジャーバージョンアップへの対応
 	- [upgradeガイド](https://docs.mattermost.com/upgrade/upgrading-mattermost-server.html)は出ています
-	- 対応するエンジニア
+
+### MattermostをホストしているEC2インスタンスのOSの保守期限
+現在のEC2
