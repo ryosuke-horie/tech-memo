@@ -58,4 +58,5 @@ https://github.com/mattermost/mattermost/releases/tag/v9.11.1
 - `ch.fs-revolution.info`のAレコードをALBに関連付けさせ名前解決
 - ALBに対してWAFを設定
 	- Ruleセットの適用なし
-	- 
+	- Cloudwatch等のログ出力の設定なし
+	- 日本以外の複数の国からのアクセスと
