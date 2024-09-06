@@ -19,3 +19,5 @@ https://slack.com/intl/ja-jp/pricing
 	- 工数削減が期待できます
 - ワークフロービルダーの機能による自動化プロセスをSlack上で作成可能
 
+## Mattermostを利用し続けるリスクについて
+2024年9月7日現在、Mattermos
