@@ -53,3 +53,8 @@ https://github.com/mattermost/mattermost/releases/tag/v9.11.1
 
 
 ## Mattermostに関連するリソースのAWS構成図と評価
+![[mattermost構成図.jpg]]
+上記画像のような構成になっています。
+- `|   |   |
+|---|---|
+|ch.fs-revolution.info||`
