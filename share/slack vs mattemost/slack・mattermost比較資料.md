@@ -13,4 +13,5 @@ https://slack.com/intl/ja-jp/pricing
 	- GitHubとの連携をスムーズに行える、GitHub Appなどが有名
 	- 通知を飛ばしたりするのにLambdaなどのコードを書く工数を削減できる
 - AWS等で実装しているLambdaを利用した通知のマネージド化
-	- AWS Chatbotという
+	- AWS ChatbotというAWSのリソースが存在する
+	- メトリクス通知やアラートなどの通知をAWSにまるっと任せることが可能
