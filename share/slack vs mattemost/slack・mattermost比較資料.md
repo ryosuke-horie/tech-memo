@@ -37,4 +37,4 @@ https://github.com/mattermost/mattermost/releases/tag/v9.11.1
 	- [upgradeガイド](https://docs.mattermost.com/upgrade/upgrading-mattermost-server.html)は出ています
 
 ### MattermostをホストしているEC2インスタンスのOSの保守期限
-現在のEC2
+現在Ma
