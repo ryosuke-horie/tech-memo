@@ -40,4 +40,4 @@ https://github.com/mattermost/mattermost/releases/tag/v9.11.1
 現在Mattermostを保守しているEC2のOSはAmazon Linux2となっています。
 2025年6月30日にサポートが終了します。
 
-つまり、
+こちらに関しても移行作業が必要で、膨大な工数がかかることが想定さｓｒ
