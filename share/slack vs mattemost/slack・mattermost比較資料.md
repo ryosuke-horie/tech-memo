@@ -37,4 +37,7 @@ https://github.com/mattermost/mattermost/releases/tag/v9.11.1
 	- [upgradeガイド](https://docs.mattermost.com/upgrade/upgrading-mattermost-server.html)は出ています
 
 ### MattermostをホストしているEC2インスタンスのOSの保守期限
-現在Ma
+現在Mattermostを保守しているEC2のOSはAmazon Linux2となっています。
+2025年6月30日にサポートが終了します。
+
+つまり、
