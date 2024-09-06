@@ -20,7 +20,7 @@ https://slack.com/intl/ja-jp/pricing
 - ワークフロービルダーの機能による自動化プロセスをSlack上で作成可能
 
 ## Mattermostを利用し続けるリスクについて
-2024年9月7日現在、Mattermostの最新版はv9.11.1となっています。
+2024年9月7日現在、Mattermostの最新版はv9.11.1となっています。(Rre-releaseではすでにv10がリリースされています)
 https://github.com/mattermost/mattermost/releases/tag/v9.11.1
 
-利用しているMattermotのバージョンは8.1.2であり、
+利用しているMattermotのバージョンは8.1.2であり、バージョンに乖離があります。
