@@ -23,4 +23,4 @@ https://slack.com/intl/ja-jp/pricing
 2024年9月7日現在、Mattermostの最新版はv9.11.1となっています。
 https://github.com/mattermost/mattermost/releases/tag/v9.11.1
 
-利用しているMattermotのバージョンは8.1.2
+利用しているMattermotのバージョンは8.1.2であり、
