@@ -60,7 +60,6 @@ https://github.com/mattermost/mattermost/releases/tag/v9.11.1
 	- Ruleセットの適用なし
 	- Cloudwatch等のログ出力の設定なし
 	- 日本以外の複数の国からのアクセスと大量のリクエストの記録がある
-		- Mattermostにしては1週間で4.84Mのリクエスト数が報告されており、異常に多い
-
+		- 1週間で4.84Mのリクエスト数が報告されており、異常に多い
 ![[waf.jpg]]
 - 
