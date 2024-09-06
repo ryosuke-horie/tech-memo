@@ -62,4 +62,5 @@ https://github.com/mattermost/mattermost/releases/tag/v9.11.1
 	- 日本以外の複数の国からのアクセスと大量のリクエストの記録がある
 		- 1週間で4.84Mのリクエスト数が報告されており、異常に多い
 ![[waf.jpg]]
-- EC2を
+- EC2をパブリックサブネットに配置している
+	- ネットワーク
