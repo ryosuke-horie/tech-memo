@@ -9,4 +9,4 @@ https://slack.com/intl/ja-jp/pricing
 	- 50人なら毎月5万円
 ### Slackを導入するメリット
 - 外部ツールとの連携のしやすさ
-	- 
+	- Slackに「アプリ」として
