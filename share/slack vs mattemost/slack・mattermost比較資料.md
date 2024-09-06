@@ -24,3 +24,4 @@ https://slack.com/intl/ja-jp/pricing
 https://github.com/mattermost/mattermost/releases/tag/v9.11.1
 
 利用しているMattermotのバージョンは8.1.2であり、バージョンに乖離があります。
+2023年
