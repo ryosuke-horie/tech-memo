@@ -68,4 +68,4 @@ https://github.com/mattermost/mattermost/releases/tag/v9.11.1
 ### セキュリティ対策をするなら
 Mattermostに対して十分なセキュリティ対策を進めるなら最低限以下のような作業が必要になります。
 - EC2をprivate subnetに移動
-- Nat GatewayをP
+- Nat GatewayをPublic Subnetに配置して
