@@ -77,6 +77,7 @@ Mattermostに対して十分なセキュリティ対策を進めるなら最低�
 - Mattemostのバージョンアップ対応
 - Amazon Linux2から保守期限の長い適切なOSに移行
 - VPCフローログの収集
-- Amazon GuardDutyの
+- Amazon GuardDutyの有効化
+- security hubの有効化と
 
 ### 
