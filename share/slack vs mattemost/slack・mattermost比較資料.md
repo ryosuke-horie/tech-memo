@@ -63,4 +63,4 @@ https://github.com/mattermost/mattermost/releases/tag/v9.11.1
 		- 1週間で4.84Mのリクエスト数が報告されており、異常に多い
 ![[waf.jpg]]
 - EC2をパブリックサブネットに配置している
-	- SSHポートなどの開放をWOｒｋ
+	- SSHポートなどの開放をWorkspacesのIPにげんと
