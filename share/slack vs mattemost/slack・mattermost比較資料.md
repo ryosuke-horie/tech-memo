@@ -76,6 +76,7 @@ Mattermostに対して十分なセキュリティ対策を進めるなら最低�
 - SSMを利用してEC2のパッチアップデートに対応
 - Mattemostのバージョンアップ対応
 - Amazon Linux2から保守期限の長い適切なOSに移行
-- VPCフローログの
+- VPCフローログの収集
+- Amazon GuardDutyの
 
 ### 
