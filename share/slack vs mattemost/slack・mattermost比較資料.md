@@ -11,6 +11,6 @@ https://slack.com/intl/ja-jp/pricing
 - 外部ツールとの連携のしやすさ
 	- Slackに「アプリ」として追加することで導入できる
 	- GitHubとの連携をスムーズに行える、GitHub Appなどが有名
-	- 通知を飛ばしたり
+	- 通知を飛ばしたりするのにLambdaなどのコードを書く工数を削減できる
 - AWS等で実装しているLambdaを利用した通知のマネージド化
-	- 
+	- AWS Chatbo
