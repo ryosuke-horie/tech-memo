@@ -37,6 +37,37 @@ npm install -g <パッケージ名>
 パッケージ情報を管理しているJSONファイルです。
 中に使われているパッケージ名が記載されています。
 
+```json
+{
+  "name": "infra",
+  "version": "0.1.0",
+  "bin": {
+    "cdk": "bin/cdk.js"
+  },
+  "scripts": {
+    "build": "tsc",
+    "cdk": "cdk",
+    "lint": "npx @biomejs/biome check",
+    "format": "npx @biomejs/biome check --fix",
+    "snapshot": "npx vitest ./test/cdk-cheerpay-dev-snapshot.test.ts --run",
+    "snapshot:update": "npx vitest ./test/cdk-cheerpay-dev-snapshot.test.ts --u"
+  },
+  "devDependencies": {
+    "@biomejs/biome": "1.8.3",
+    "@types/aws-lambda": "^8.10.145",
+    "@types/node": "22.5.4",
+    "aws-cdk": "2.155.0",
+    "ts-node": "^10.9.2",
+    "typescript": "~5.5.3",
+    "vitest": "^2.0.5"
+  },
+  "dependencies": {
+    "aws-cdk-lib": "2.155.0",
+    "constructs": "^10.0.0",
+    "source-map-support": "^0.5.21"
+  }
+}
 ```
 
-```
+### scriptsについて
+package.jsonのscriptのおｂ
