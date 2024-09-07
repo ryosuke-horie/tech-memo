@@ -93,4 +93,4 @@ npm install --save-dev aws-cdk
 
 ## package-lock.jsonについて
 パッケージの詳細なバージョンを管理するために利用されます。
-package.jsonでは`"aws-cdk": "2.155.0"`の記載がありますが、
+package.jsonでは`"ts-node": "^10.9.2"`の記載がありますが、これは
