@@ -92,4 +92,5 @@ npm install --save-dev aws-cdk
 それ以外はdevDependenciesと同じです。
 
 ## package-lock.jsonについて
-パッケージの詳細なバージョンをかｎ
+パッケージの詳細なバージョンを管理するために利用されます。
+package.jsonでは`"aws-cdk": "2.155.0"`の記載がありますが
