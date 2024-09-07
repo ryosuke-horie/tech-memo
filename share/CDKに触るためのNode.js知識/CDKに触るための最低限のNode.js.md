@@ -83,5 +83,6 @@ npm run <コマンド名>
 直接編集することもできますが、基本的にはライブラリのインストール時に自動的に更新されます。
 例えば
 ```bash
-npm i --save-dev 
+npm install --save-dev aws-cdk
 ```
+とコマンドを打てばaws-cdkのパッケージを見つけてインストールし、package
