@@ -91,4 +91,5 @@ npm install --save-dev aws-cdk
 本番環境でも利用するパッケージが記載されます。
 それ以外はdevDependenciesと同じです。
 
-### パッケージのインストールにｔ
+## package-lock.jsonについて
+パッケージの詳細なバージョンをかｎ
