@@ -77,3 +77,6 @@ package.jsonのscriptのオブジェクトに
 npm run <コマンド名>
 ```
 で実行できます。
+
+### devDependenciesについて
+プロジェクトにインストールしているパッケージです。
