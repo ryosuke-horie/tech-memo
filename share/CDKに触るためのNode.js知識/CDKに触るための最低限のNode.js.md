@@ -87,4 +87,8 @@ npm run <コマンド名>
 npm install --save-dev aws-cdk
 ```
 とコマンドを打てばaws-cdkのパッケージを見つけてインストールし、追記されます。
-""
+### dependenciesについて
+本番環境でも利用するパッケージが記載されます。
+それ以外はdevDependenciesと同じです。
+
+### パッケージのインストールにｔ
