@@ -97,5 +97,6 @@ package.jsonでは`"ts-node": "^10.9.2"`の記載がありますが、これは*
 特定のバージョンが利用されていることを保証するためにpackage-lock.jsonが利用されます。
 
 ```bash
-n
+npm ci
 ```
+このこまど
