@@ -70,4 +70,5 @@ npm install -g <パッケージ名>
 ```
 
 ### scriptsについて
-package.jsonのscriptのおｂ
+package.jsonのscriptのオブジェクトに
+`コマンド名: 実行コマンド`のように記載することで
