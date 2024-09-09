@@ -19,6 +19,12 @@ https://slack.com/intl/ja-jp/pricing
 	- 工数削減が期待できます
 - ワークフロービルダーの機能による自動化プロセスをSlack上で作成可能
 
+## Slack ゲストの招待について
+参考記事：
+https://dekiru.net/article/19943/
+
+
+
 ## Mattermostを利用し続けるリスクについて
 ### Mattermostのセキュリティ対策ができていない
 2024年9月7日現在、Mattermostの最新版はv9.11.1となっています。(Rre-releaseではすでにv10がリリースされています)
