@@ -22,8 +22,8 @@ https://slack.com/intl/ja-jp/pricing
 ## Slack ゲストの招待について
 参考記事：
 https://dekiru.net/article/19943/
-
-
+![[slack_ゲスト.png]]
+有料プランであれば上記の
 
 ## Mattermostを利用し続けるリスクについて
 ### Mattermostのセキュリティ対策ができていない
