@@ -23,7 +23,8 @@ https://slack.com/intl/ja-jp/pricing
 参考記事：
 https://dekiru.net/article/19943/
 ![[slack_ゲスト.png]]
-有料プランであれば上記の
+有料プランであれば上記のポップアップ画面を表示することが可能です。
+
 
 ## Mattermostを利用し続けるリスクについて
 ### Mattermostのセキュリティ対策ができていない
