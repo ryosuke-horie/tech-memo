@@ -24,6 +24,7 @@ https://slack.com/intl/ja-jp/pricing
 https://dekiru.net/article/19943/
 ![[slack_ゲスト.png]]
 有料プランであれば上記のポップアップ画面を表示することが可能です。
+これによってメールアドレスから招待し、ゲストの有効期限を設定したうえで招待を送付することができます。
 
 
 ## Mattermostを利用し続けるリスクについて
