@@ -14,5 +14,7 @@ https://rust-book.cs.brown.edu/ch06-02-match.html
 	- 条件をBoolで評価しなくても任意の型にすることができている
 - https://github.com/ryosuke-horie/rust-basic/tree/main/match
 - Enumで判定する上から２つをやった
-- 所有権の話がでてきたので後回しに
+- 所有権の話がでてきたので後回しに...
+
+
 	
