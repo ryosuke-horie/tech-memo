@@ -7,3 +7,5 @@
 		- 値を一連のパターンと比較しどれに一致するかに基づいてコードを実行
 	- `if let`
 		- 特定のパターンに一致する値をより簡潔に処理可能
+### match
+https://rust-book.cs.brown.edu/ch06-02-match.html
