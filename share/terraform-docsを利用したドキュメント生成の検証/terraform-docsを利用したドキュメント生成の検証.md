@@ -14,4 +14,4 @@ https://github.com/ryosuke-horie/terraform-aws-github-runner-custom/blob/main/do
 Terraformを置いた環境でコマンドを1発実行するだけで十分な情報量のドキュメント生成が可能だった。
 Descriptionとして記載する内容を精査すれば十分会社とかでも利用できそうに感じる。
 
-今回試したDockerでも他の方法でもなんでもいいと思うが、GitHub Actionsによって環境じょうおう
+今回試したDockerでも他の方法でもなんでもいいと思うが、GitHub Actionsによって自動化もできそう。
