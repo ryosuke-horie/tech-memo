@@ -10,4 +10,4 @@
 ### match
 https://rust-book.cs.brown.edu/ch06-02-match.html
 - 値が収まる最初のパターンで実行中に使用されるコードブロックに落ちる
-- 
+- ifに似ているが、大きな違いがある
