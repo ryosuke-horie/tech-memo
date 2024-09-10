@@ -1,0 +1,9 @@
+
+## 出発点
+- CDKでAWSインフラを管理する
+- 基本的にほぼすべてのリソースをCDKで管理するため、手動やAPIを利用して変更が加えられたときに検知したい。
+- AWS Configを利用すれば検出できそう
+
+## AWS Configの基礎知識
+[AWS Config の定期的な記録を使用した設定項目の検出](https://aws.amazon.com/jp/blogs/news/how-to-record-resource-configuration-changes-periodically-with-aws-config/)
+ー
