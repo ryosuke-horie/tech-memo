@@ -8,4 +8,5 @@
 [AWS Config の定期的な記録を使用した設定項目の検出](https://aws.amazon.com/jp/blogs/news/how-to-record-resource-configuration-changes-periodically-with-aws-config/)
 - AWSアカウント内の設定変更を追跡できる
 - 設定レコーダーを利用してリソースの編国を検出し設定項目として追跡する
-- 
+- 定期的な記録を利用することで、コスト効率高く実装可能
+	- 継続的な記録も可能だが、
