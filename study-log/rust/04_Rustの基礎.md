@@ -12,4 +12,7 @@ https://rust-book.cs.brown.edu/ch06-02-match.html
 - 値が収まる最初のパターンで実行中に使用されるコードブロックに落ちる
 - ifに似ているが、大きな違いがある
 	- 条件をBoolで評価しなくても任意の型にすることができている
+- https://github.com/ryosuke-horie/rust-basic/tree/main/match
+- Enumで判定する上から２つをやった
+- 所有権の話がでてきたので後回しに
 	
