@@ -16,5 +16,5 @@ https://rust-book.cs.brown.edu/ch06-02-match.html
 - Enumで判定する上から２つをやった
 - 所有権の話がでてきたので後回しに...
 
-
-	
+### if let
+https://rust-book.cs.brown.edu/ch06-03-if-let.html
