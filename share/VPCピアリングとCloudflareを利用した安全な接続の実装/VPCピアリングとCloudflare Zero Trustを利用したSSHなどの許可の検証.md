@@ -11,4 +11,4 @@
 3. Cloudflare Zero trust＞Networks＞Tunnels
 	1. cloudflaredを新規作成
 	2. RedHat/64bitを指定してCloudflared構築用のコマンドをコピー
-	3. VPCのぷら
+	3. VPCのプライベートサブネットの
