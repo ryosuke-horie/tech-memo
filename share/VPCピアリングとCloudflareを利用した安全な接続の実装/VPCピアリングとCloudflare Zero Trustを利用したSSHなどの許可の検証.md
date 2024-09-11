@@ -5,4 +5,5 @@
 - Cloudflare Tunnelを利用して、Cloudflare WARPでZeroTrustにログインしたPCからVPCピアリングのアクセプタのEC2にSSH接続を成功させる
 
 ## 検証時に行った操作
-1. 
+1. 適当なAWSアカウントに対してVPCを新規作成する。
+	- 
