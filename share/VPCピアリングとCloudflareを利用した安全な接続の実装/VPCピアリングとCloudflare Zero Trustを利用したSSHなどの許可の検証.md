@@ -8,4 +8,7 @@
 1. 適当なAWSアカウントに対してVPCを新規作成する。
 	- パブリックサブネット・ルートテーブルも同時に作成する
 2. 新規作成したVPCのパブリックサブネットにAmazonLinux2023のEC2インスタンスを作成する
-3. Cloudflare Zero trustから
+3. Cloudflare Zero trust＞Networks＞Tunnels
+	1. cloudflaredを新規作成
+	2. RedHat/64bitを指定してCloudflared構築用のコマンドをコピー
+	3. VPCのぷら
