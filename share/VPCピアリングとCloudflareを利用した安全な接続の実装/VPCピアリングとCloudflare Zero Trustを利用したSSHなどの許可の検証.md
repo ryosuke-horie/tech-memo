@@ -13,4 +13,5 @@
 	2. RedHat/64bitを指定してCloudflared構築用のコマンドをコピー
 	3. EC2のプライベートIPv4アドレスを指定してトンネルを作成
 4. EC2にインスタンスコネクトで接続しCloudflared構築用のコマンドを張り付け実行
-5. Cloudflare Zero Trust＞
+5. Cloudflare Zero Trust＞Networks＞Tunnelsでトンネルの状態がHealtyになっていることを確認
+6. VPCピアリングを構成
