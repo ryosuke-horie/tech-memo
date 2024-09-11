@@ -15,3 +15,5 @@
 4. EC2にインスタンスコネクトで接続しCloudflared構築用のコマンドを張り付け実行
 5. Cloudflare Zero Trust＞Networks＞Tunnelsでトンネルの状態がHealtyになっていることを確認
 6. VPCピアリングを構成
+	1. 対象のVPCに対してリクエスト
+	2. VPCピアリングのリクエストを承諾
