@@ -12,4 +12,5 @@
 	1. cloudflaredを新規作成
 	2. RedHat/64bitを指定してCloudflared構築用のコマンドをコピー
 	3. EC2のプライベートIPv4アドレスを指定してトンネルを作成
-4. 
+4. EC2にインスタンスコネクトで接続しCloudflared構築用のコマンドを張り付け実行
+5. Cloudflare Zero Trust＞
