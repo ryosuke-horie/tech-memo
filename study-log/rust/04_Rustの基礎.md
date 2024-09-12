@@ -26,11 +26,16 @@
 
 
 ## 制御フロー構文
+- `if`, `else`
+- `while`, `for`, `match`
+
+
 `else`
 `while`
 `for`
+`while`
+`for`
 `match`
-`if``else``while``for``while``for``match`
 
 ## パターンマッチングと構造化分解
 - Rustでのパターンマッチング
